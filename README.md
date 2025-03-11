@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🚀 About Me<br>Hi there! 👋 I'm Vikash Ranjan, an Aspiring Frontend Developer and UI Enthusiast who believes in lifelong learning and continuous self-improvement. I love crafting seamless user experiences and bringing designs to life with clean, efficient code.<br><br>💡 What I Do:<br><br>🌐 Frontend Development – Constantly refining my skills in modern web technologies.<br>
+🚀Hi there! 👋 I'm Vikash Ranjan, an Aspiring Frontend Developer and UI Enthusiast who believes in lifelong learning and continuous self-improvement. I love crafting seamless user experiences and bringing designs to life with clean, efficient code.<br><br>💡 What I Do:<br><br>🌐 Frontend Development – Constantly refining my skills in modern web technologies.<br>
 🔮 UI Development – Exploring design principles to enhance user interactions.<br>🏹Learning by Doing – Hands-on experience is my best teacher.<br>🔭 Currently, I'm diving deeper into cutting-edge frontend trends, improving my UI/UX sense, and leveling up my problem-solving skills.<br><br>📌 Let's connect, code, and create something amazing! 🚀
 
 
