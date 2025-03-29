@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 💫 About Me:
+# About Me:
 🚀 Hi there! I'm Vikash Ranjan 👋
 Aspiring Frontend Developer | UI Enthusiast | Lifelong Learner
 
@@ -25,7 +25,7 @@ Aspiring Frontend Developer | UI Enthusiast | Lifelong Learner
 🔹 UI Development – Translating designs into seamless, user-friendly experiences with a focus on clean code, accessibility, and performance.
 🔹 Learning by Doing – Hands-on coding, experimenting with new frontend trends, and continuously refining my problem-solving skills.
 
-🚀 Currently exploring:
+📈 Currently exploring:
 
 React.js concepts , various libary and component optimization
 
