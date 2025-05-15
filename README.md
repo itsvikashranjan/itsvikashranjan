@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 🚀 Hi there! I'm Vikash Ranjan.
 
 Aspiring Frontend Developer | UI Enthusiast | Lifelong Learner
-
-💡 What I Do:
+ What I Do:
 
 🌐 Frontend Development – Building responsive, high-performance web applications using modern technologies like HTML, CSS, JavaScript, React.js, and WordPress.
 
@@ -31,18 +30,6 @@ Aspiring Frontend Developer | UI Enthusiast | Lifelong Learner
 
 🔭 I'm diving deeper into cutting-edge frontend trends and leveling up my problem-solving skills.
 
-
-
-
-
-
-📈 Currently exploring:
-
-🔹React.js concepts , various libary and component optimization
-
-🔹UI/UX best practices for better user engagement
-
-🔹Performance optimization & scalable web development
 
 
 📌 I believe in writing clean, efficient code that bridges design and development. Always open to collaborations, discussions, and exciting frontend projects!
