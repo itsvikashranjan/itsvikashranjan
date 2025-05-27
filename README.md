@@ -57,7 +57,7 @@ Aspiring Frontend Developer | UI Enthusiast | Lifelong Learner
 
 | 	S.No	   | 	 Mini Project	  | 	Live Link	   |   GitHub Link  |
 | 	:-----:	 | 	:------------:  | 	:---------:  | 	:----------:  |
-| 	01	     |LostFound Platform|<a href="">https://lost-found-platform-frontend.vercel.app</a>  | <a href="">This project is a web-based platform built to help users easily report and search for lost or found items.</a>|
+| 	01	     |LostFound Platform|<a href="">https://lost-found-platform-frontend.vercel.app</a>  | <a href="">This project is a web-based platform built to help users easily report and search for lost or found items using React js.</a>|
 | 	02	|Sign-up Page |<a href="">https://sign-up-pagz.netlify.app/</a>  | <a href="">Reponsive Sign-up page.</a>  |
 | 	03	|Gallery      |<a href="">https://collegetip.netlify.app/</a>  | <a href="">Interactive and Fun Gallery. </a>  |
 | 	04	|Digital Clock      |<a href="">https://digi-cloc.netlify.app/</a>  | <a href="">Basic Digital Clock. </a>  |
